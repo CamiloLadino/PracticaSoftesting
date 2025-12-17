@@ -18,5 +18,4 @@ public class DriverChrome
         driver.Navigate().GoToUrl("https://qa-practice.netlify.app/bugs-form");
 
     }
-    // Add driver related methods and properties here
 }
